@@ -4,7 +4,8 @@ A lightweight and modern admin dashboard template built with Vue.js and Nuxt 3. 
 
 ### Preview 🔎
 
-![](https://files.catbox.moe/dx4gwv.png)
+![](https://files.catbox.moe/si855l.png)
+![](https://files.catbox.moe/g8023s.png)
 
 ### Key Features 🗝️
 
@@ -19,7 +20,7 @@ A lightweight and modern admin dashboard template built with Vue.js and Nuxt 3. 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/sckrp/horizon.git
+git clone https://github.com/syvixor/horizon.git
 ```
 
 2. Install dependencies:

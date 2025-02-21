@@ -8,7 +8,7 @@
                 <UAvatar src="https://avatars.githubusercontent.com/u/191499017?v=4" chip-color="green"
                     chip-position="bottom-right" size="md" />
                 <div>
-                    <p class="text-base font-semibold">Sckoorp</p>
+                    <p class="text-base font-semibold">Syv</p>
                     <p class="text-sm font-normal">Hey There!</p>
                 </div>
             </div>
